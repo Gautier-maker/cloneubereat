@@ -1,4 +1,4 @@
-const publicPath = process.env.NODE_ENV === 'production' ? '../src/' : ' /ubereatsclone/'
+const publicPath = process.env.NODE_ENV === 'production' ? '/dist/' : '/'
 module.exports = {
  publicPath: publicPath,
 }

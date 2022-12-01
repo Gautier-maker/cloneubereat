@@ -1,4 +1,4 @@
-const publicPath = process.env.NODE_ENV === 'production' ? '/dist/' : '/'
+const publicPath = process.env.NODE_ENV === 'production' ? '/cloneubereat/' : '/'
 module.exports = {
  publicPath: publicPath,
 }
